@@ -1,7 +1,17 @@
 {
-    "name": "com.teamdev.dotnetbrowser.deps",
-    "displayName": "DotNetBrowser dependencies",
-    "version": "3.0.0",
-    "unity": "2018.3",
-    "description": "DotNetBrowser dependencies"
+  "name": "com.teamdev.dotnetbrowser.deps",
+  "displayName": "DotNetBrowser dependencies",
+  "version": "3.0.0",
+  "unity": "2018.3",
+  "description": "DotNetBrowser dependencies"
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://teamdev.com/dotnetbrowser/",
+  "changelogUrl": "https://teamdev.com/dotnetbrowser/release-notes/2024/v3-0-0.html",
+  "licensesUrl": "https://teamdev.com/dotnetbrowser/individual-license-agreement/",
+  "author": {
+    "name": "TeamDev",
+    "email": "sales@teamdev.com",
+    "url": "https://teamdev.com"
+  }
 }
